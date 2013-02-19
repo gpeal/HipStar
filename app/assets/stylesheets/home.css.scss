@@ -1,3 +1,11 @@
 // Place all the styles related to the Home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background-image:url('/assets/hipsterbg.jpg');
+}
+
+.btn-primary {
+  background-image: -webkit-linear-gradient(top, rgb(0, 204, 196), rgb(166, 178, 201));
+  background-color: rgb(0, 204, 196);
+}
